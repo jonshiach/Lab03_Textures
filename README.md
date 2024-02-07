@@ -2,7 +2,7 @@
 
 ## Get the files
 
-Install git if you haven't already done so ([instructions](https://github.com/git-guides/install-git)) and clone the repository the command prompt/terminal
+Install git if you haven't already done so ([instructions](https://github.com/git-guides/install-git)) and clone the repository using the command prompt/terminal
 
 ```
 git clone https://github.com/jonshiach/Lab03_Textures.git
