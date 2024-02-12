@@ -1,0 +1,19 @@
+# CMake generation dependency list for this directory.
+C:/Users/55093290/OneDrive - MMU/Documents/Lab03_Textures/external/glfw-3.1.2/CMakeLists.txt
+C:/Users/55093290/OneDrive - MMU/Documents/Lab03_Textures/external/glfw-3.1.2/cmake_uninstall.cmake.in
+C:/Users/55093290/OneDrive - MMU/Documents/Lab03_Textures/external/glfw-3.1.2/docs/Doxyfile.in
+C:/Users/55093290/OneDrive - MMU/Documents/Lab03_Textures/external/glfw-3.1.2/src/glfw3.pc.in
+C:/Users/55093290/OneDrive - MMU/Documents/Lab03_Textures/external/glfw-3.1.2/src/glfw3Config.cmake.in
+C:/Users/55093290/OneDrive - MMU/Documents/Lab03_Textures/external/glfw-3.1.2/src/glfw_config.h.in
+D:/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+D:/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake
+D:/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake
+D:/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/CheckIncludeFile.cmake
+D:/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/CheckLibraryExists.cmake
+D:/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/FindDoxygen.cmake
+D:/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/FindOpenGL.cmake
+D:/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake
+D:/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/FindPackageMessage.cmake
+D:/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/FindThreads.cmake
+D:/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake
+D:/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake

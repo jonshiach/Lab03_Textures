@@ -1,0 +1,10 @@
+^C:\USERS\55093290\ONEDRIVE - MMU\DOCUMENTS\LAB03_TEXTURES\EXTERNAL\CMAKELISTS.TXT
+setlocal
+D:\cmake-3.28.3-windows-x86_64\bin\cmake.exe "-SC:/Users/55093290/OneDrive - MMU/Documents/Lab03_Textures" "-BC:/Users/55093290/OneDrive - MMU/Documents/Lab03_Textures/build" --check-stamp-file "C:/Users/55093290/OneDrive - MMU/Documents/Lab03_Textures/build/external/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+^C:\USERS\55093290\ONEDRIVE - MMU\DOCUMENTS\LAB03_TEXTURES\BUILD\CMAKEFILES\A6850F98435B3757D29FDD0A1542AF79\GENERATE.STAMP.RULE
+setlocal
+D:\cmake-3.28.3-windows-x86_64\bin\cmake.exe "-SC:/Users/55093290/OneDrive - MMU/Documents/Lab03_Textures" "-BC:/Users/55093290/OneDrive - MMU/Documents/Lab03_Textures/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/55093290/OneDrive - MMU/Documents/Lab03_Textures/build/Lab03_Textures.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

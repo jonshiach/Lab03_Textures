@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\55093290\OneDrive - MMU\Documents\Lab03_Textures\external\glfw-3.1.2\tests\cursor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\55093290\OneDrive - MMU\Documents\Lab03_Textures\external\glfw-3.1.2\tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{19B07A36-1FC3-34A3-A7DF-DC2FF24FDC25}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\55093290\OneDrive - MMU\Documents\Lab03_Textures\build\CMakeFiles\b275b5d99b3347239220ece2129f548f\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\55093290\OneDrive - MMU\Documents\Lab03_Textures\external\glfw-3.1.2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\55093290\OneDrive - MMU\Documents\Lab03_Textures\build\external\glfw-3.1.2\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FEE64FC4-FAAD-3DF2-9584-1EC4D59257D3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
