@@ -12,8 +12,6 @@ Or download the [zip file](https://github.com/jonshiach/Lab03_Textures/zipball/m
 
 ## Build instructions
 
-**You don't need to do this on the PC labs in the Dalton building. Just goto the `pc_lab_build` folder and run the Visual Studio project file there.**
-
 1. Download, install and run <a href="https://www.cmake.org" target="_blank">CMake</a>.
 2. In the `Lab03_Textures/` folder create a folder and call it `build/`.
 3. Click on **Browse Source...** next to 'Where is the source code?' and select the `Lab03_Textures/` folder.
